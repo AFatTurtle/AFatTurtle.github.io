@@ -10,3 +10,11 @@ h2.last{
     font-size:25px;
     color: DarkGreen;
 }
+
+a.rainbow{
+    font-size:25px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
