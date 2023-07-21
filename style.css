@@ -14,7 +14,7 @@ h2.last{
 a.rainbow{
     font-size:25px;
     font-weight: bold;
-    background: -webkit-linear-gradient(#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF);
+    background: -webkit-linear-gradient(#FF5500,#FFAA00,#F0F03D,#55FF00,#34FFF1,#45BCE4,#5D83EC);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
